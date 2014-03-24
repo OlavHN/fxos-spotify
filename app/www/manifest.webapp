@@ -1,0 +1,20 @@
+{
+  "name": "Foxify",
+  "type": "privileged",
+  "description": "Unofficial client for syncing FxOS with Spotify playlists",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/logo.png"
+  },
+  "developer": {
+    "name": "Olav Nymoen",
+    "url": "http://github.com/OlavHN"
+  },
+  "default_locale": "en",
+  "permissions": {
+    "device-storage:music": {
+      "access": "readwrite"
+    },
+    "systemXHR": {}
+  }
+}

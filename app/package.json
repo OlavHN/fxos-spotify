@@ -1,0 +1,17 @@
+{
+  "name": "Foxify",
+  "version": "0.0.0",
+  "description": "Unofficial Spotify client for Firefox OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Olav Nymoen",
+  "license": "BSD",
+  "dependencies": {
+    "envify": "~1.2.1",
+    "react": "~0.10.0",
+    "browser-request": "^0.3.1"
+  }
+}

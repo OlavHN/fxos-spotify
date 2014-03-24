@@ -1,0 +1,16 @@
+{
+  "name": "spotify",
+  "version": "0.0.0",
+  "description": "Sync FxOS with Spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olav Nymoen",
+  "license": "ISC",
+  "dependencies": {
+    "lame": "~1.0.3",
+    "speaker": "0.0.10",
+    "spotify-web": "~1.1.0"
+  }
+}
